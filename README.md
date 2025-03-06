@@ -21,16 +21,13 @@ I'm Soumasish Dasgupta, an aspiring full-stack developer with a deep passion for
     [![My Skills](https://skillicons.dev/icons?i=express,spring)](https://skillicons.dev)
 - Libraries:
 
-    [![My Skills](https://skillicons.dev/icons?i=react,nodejs)](https://skillicons.dev)
-- Build Tools:
-  
-    [![My Skills](https://skillicons.dev/icons?i=vite)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=react,nodejs,graphql)](https://skillicons.dev)
 - Database & cloud:
 
     [![My Skills](https://skillicons.dev/icons?i=docker,mongodb,supabase,mysql,aws)](https://skillicons.dev)
 - Tools and Platforms:
   
-    [![My Skills](https://skillicons.dev/icons?i=notion,figma,firebase,git,github)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=vite,notion,figma,firebase,git,github)](https://skillicons.dev)
 
 ## Let's Collaborate!
 
