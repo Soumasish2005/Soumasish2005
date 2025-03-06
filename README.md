@@ -1,15 +1,15 @@
 ## Hi there 👋
 I'm Soumasish Dasgupta, an aspiring full-stack developer with a deep passion for mastering Data Structures and Algorithms (DSA). I'm currently based in Kolkata and pursuing my B.Tech in Computer Science and Engineering at Techno India University. My interests span across Software Engineering, AI, and Machine Learning.
 
-- 🔭 I’m currently working on [Full-Stack-Open](https://github.com/Th85534/FullStack-Open-Course)
+- 🔭 I’m currently working on [Full-Stack-Open](https://github.com/Soumasish2005/FullStack-Open-Course)
 - 🌱 I’m currently learning Java
 - 😄 Pronouns: He/Him
   
 ## My Github Stats
 
-![Th85534's Stats](https://github-readme-stats.vercel.app/api?username=Th85534&theme=tokyonight&show_icons=true&hide_border=true&count_private=false)
-![Th85534's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Th85534&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-![GitHub Streak](https://streak-stats.demolab.com?user=Th85534&theme=tokyonight&hide_border=true)
+![Soumasish2005's Stats](https://github-readme-stats.vercel.app/api?username=Soumasish2005&theme=tokyonight&show_icons=true&hide_border=true&count_private=false)
+![Soumasish2005's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumasish2005&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=Soumasish2005&theme=tokyonight&hide_border=true)
 
 ## My Skills
 
