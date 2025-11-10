@@ -5,7 +5,6 @@ I'm Soumasish Dasgupta, an aspiring full-stack developer with a deep passion for
 - 🌱 I’m currently learning Java
 - 😄 Pronouns: He/Him
 
-  ![](https://komarev.com/ghpvc/?username=Soumasish2005)
 ## My Github Stats
 
 ![Soumasish2005's Stats](https://github-readme-stats.vercel.app/api?username=Soumasish2005&theme=tokyonight&show_icons=true&hide_border=true&count_private=false)
